@@ -1,5 +1,5 @@
 
-# YouTube Video Recommendation for Domain-Specific Content
+# Sentiment-Based YouTube Video Recommendation
 
 Welcome to the YouTube Video Recommendation System project! This comprehensive system is designed to offer personalized and relevant video recommendations within a specific content domain. It leverages the YouTube API, Data analysis, Natural Language Processing (NLP) and LSTM.
 
